@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abraham-Felix
 - 👀 I’m interested in new Fullstack Technologies!
 - 🌱 I’m currently learning JS, Vue.js, Rubyon Rails...
-- 💞️ I’m looking to collaborate on Opensource Projects and Schools!.
+- 💞️ I’m looking to collaborate on Opensource Projects and Schools!. PS: and make some 💰💰💰 😊
 - 📫 How to reach me mexdevservice@gmail.com | https://www.mexdev.io
 
 <!---
