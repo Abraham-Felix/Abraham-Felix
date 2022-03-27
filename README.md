@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS, Vue.js, Rubyon Rails, Ember.js...
 - 💞️ I’m looking to collaborate on Opensource Projects or Educational. PS: "And making some 💰😊 " 
 - 📫 How to reach me mexdevservice@gmail.com, apesyntax@gmail.com | https://www.mexdev.io
-- 😎 Other Prjects: Fintech Horizons, Mexdev, Vuelang, Secure Disruptions, Fishing Planet Sheet
+- 😎 Other Projects: Fintech Horizons, Mexdev, Vuelang, Secure Disruptions, Fishing Planet Sheet
 
 <!---
 Abraham-Felix/Abraham-Felix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
