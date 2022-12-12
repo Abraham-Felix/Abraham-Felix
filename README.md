@@ -2,6 +2,7 @@
 - 👀 I’m interested in Front-end spa and ssr Technologies!
 - 🌱 I’m currently working with TS, JS, Vue 3, Nuxt3, Ember.js.
 - 💞️ I’m looking to collaborate on Opensource Projects or Educational. PS: "And making some 💰😊 " 
+- 🕹  Love video games, playing and looking into developing video games.
 - 📫 How to reach me: mexdevservice@gmail.com & apesyntax@gmail.com
 ## 😎 *Projects:* 
 1. Fintech Horizons
