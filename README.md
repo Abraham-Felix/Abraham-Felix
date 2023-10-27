@@ -3,7 +3,7 @@
 - 👀 I’m interested in Front-end SPA (Single Page Applications) and SSR Technologies!
 - 🔬 I Fix Smartphones and Tablets when I am unemployed. 🤷‍♂️ 
 - 🌱 I’m currently working with TS, JS, Vue 3, Nuxt3, Ember.js.
-- 🕹  Love video games, playing and looking into developing video games.
+- I love video games, playing and looking into developing video games when I am bored and feel lonely.
 - 📫 How to reach me: servicioscelfonica@gmail.com, mexdevservice@gmail.com & apesyntax@gmail.com
 ## 😎 *Projects:* 
 1. Fintech Horizons
