@@ -1,7 +1,8 @@
-# 👋 Hi, I’m @Abraham-Felix
-- 👀 I’m interested in Front-end spa and ssr Technologies!
-- 🌱 I’m currently working with TS, JS, Vue 3, Nuxt3, Ember.js.
+# 👋 Hi, I’m @Abraham-Felix at your service!
 - 💞️ I’m looking to collaborate on Opensource Projects or Educational. PS: "And making some 💰😊 " 
+- 👀 I’m interested in Front-end SPA (Single Page Applications) and SSR Technologies!
+- 🔬 I Fix Smartphones and Tablets when I am unemployed. 🤷‍♂️ 
+- 🌱 I’m currently working with TS, JS, Vue 3, Nuxt3, Ember.js.
 - 🕹  Love video games, playing and looking into developing video games.
 - 📫 How to reach me: servicioscelfonica@gmail.com, mexdevservice@gmail.com & apesyntax@gmail.com
 ## 😎 *Projects:* 
