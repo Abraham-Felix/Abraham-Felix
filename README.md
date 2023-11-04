@@ -6,7 +6,7 @@
 - I love video games, playing and looking into developing video games when I am bored and feel lonely.
 - 📫 How to reach me: servicioscelfonica@gmail.com, mexdevservice@gmail.com & apesyntax@gmail.com
 
-🚀 Seeking Exciting Opportunities in Website Design, Vue.js Development, or even as a Project Manager Assistant in a Tech company or related! 🎨💻
+🚀 Seeking Exciting Opportunities as Director of Design or UX design specialist in a Tech company or related! 🎨💻
 
 Hello, LinkedIn community! I hope this post finds you well. 👋
 
