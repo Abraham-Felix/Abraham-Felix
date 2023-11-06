@@ -6,6 +6,9 @@
 - I love video games, playing and looking into developing video games when I am bored and feel lonely.
 - 📫 How to reach me: servicioscelfonica@gmail.com, mexdevservice@gmail.com & apesyntax@gmail.com
 
+Current portfolio: https://codepen.io/apesyntax
+I am working on my new one I need to organize all my projects for that new one. 
+
 🚀 Seeking Exciting Opportunities as Director of Design or UX design specialist in a Tech company or related! 🎨💻
 
 Hello, LinkedIn community! I hope this post finds you well. 👋
