@@ -7,7 +7,6 @@
 - 📫 How to reach me: servicioscelfonica@gmail.com, mexdevservice@gmail.com & apesyntax@gmail.com
 
 Current portfolio: https://abrahams-portfolio.netlify.app/
-I am working on my new one I need to organize all my projects for that new one. 
 
 🚀 Seeking Exciting Opportunities as Director of Design or UX design specialist in a Tech company or related! 🎨💻
 
