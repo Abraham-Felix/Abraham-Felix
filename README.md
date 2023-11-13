@@ -1,18 +1,10 @@
-# 👋 Hi, I’m @Abraham-Felix at your service!
-- 💞️ I’m looking to collaborate on Opensource Projects or Educational. PS: "And making some 💰😊 " 
-- 👀 I’m interested in Front-end SPA (Single Page Applications) and SSR Technologies!
-- 🔬 I Fix Smartphones and Tablets when I am unemployed. 🤷‍♂️ 
-- 🌱 I’m currently working with Vue 3, Figma & Vuetify <3 forever!
-- I love video games, playing and looking into developing video games when I am bored and feel lonely.
-- 📫 How to reach me: servicioscelfonica@gmail.com, mexdevservice@gmail.com & apesyntax@gmail.com
-
-Current portfolio: https://abrahams-portfolio.netlify.app/
-
-🚀 Seeking Exciting Opportunities as Director of Design or UX design specialist in a Tech company or related! 🎨💻
-
-Hello, LinkedIn community! I hope this post finds you well. 👋
-
-I am on the hunt for my next job, in the world of website design and Vue.js development. After a deep journey improving my skills, I'm ready to bring my passion and expertise to a dynamic team.
+# 👋 Hi, I’m @Abraham-Felix a Software Developer with a Background as Director of Design.
+- 💞️ I’m open to collaborating on Opensource Projects as long as they are positive.
+- 👀 I’m interested in Front-end technologies for SPA and SSR.
+- 🌱 I’m currently working with Vue 3.
+- 📫 How to reach me: apesyntax@gmail.com
+- 👨‍💻 Portfolio: https://abrahams-portfolio.netlify.app/
+- ✅ I am actively looking for a new job coding.
 
 🖥️ What I Bring to the codebase:
 
@@ -22,11 +14,31 @@ I am on the hunt for my next job, in the world of website design and Vue.js deve
 💼 Experience working with diverse teams on exciting projects.
 🌟 A dedication to keeping up with the latest trends and technologies.
 
+Tech: 
+
+Vue3, Vue2, Nuxt3, Nuxt2, Javascript ES6+, Typescript, Ruby on Rails.
+
+UI:
+
+Vuetify, ionic, Bootstrap.
+
+Tools: 
+
+Github, Git, Figma, Visual Basic, Atom, Google Workspace, AdobeXD, Corel. 
+
+App deployment services: 
+
+Netlify, Heroku, Digital Ocean.
+
+DB:
+
+Postgres, Firebase.
+
 💼 Why Hire Me:
-I'm not just seeking a job; I'm open to being part of a team where we can learn, innovate, collaborate, motivate, design, and bring amazing web experiences to life 💗. Whether it's a responsive website or an interactive SPA, I'm ready to code it with enthusiasm and creativity.
+I'm not just seeking a job; I'm open to being part of a team where we can learn, innovate, collaborate, motivate, design, and bring amazing web experiences to life. Whether it's a responsive website or an interactive SPA, I'm ready to code it with enthusiasm and creativity.
 
 🚀 Let's Connect:
-If you know of any opportunities or if you're interested in collaborating, I'd love to connect and discuss further possibilities. Feel free to reach out via direct message or email at apesyntax@gmail.com or even whats app to my number 638-113-4196. 😁
+If you know of any opportunities or if you're interested in collaborating, I'd love to connect and discuss further possibilities. Feel free to reach out via direct message or email at apesyntax@gmail.com or even whats app to my number 638-113-4196. 
 
 🙏 Gratitude:
 Thank you so much for your attention, and interest. Your assistance in spreading the word is immensely appreciated 🦾. Let's create remarkable web solutions together!
