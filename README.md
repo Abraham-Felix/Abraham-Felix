@@ -1,18 +1,19 @@
-# 👋 Hi, I’m @Abraham-Felix a Software Developer with a Background as Director of Design.
+# 👋 Hi, I’m @Abraham-Felix a Software Developer with a Background as Director of Design with 12+ years of work experience + 22+ Tech certifications.
 - 💞️ I’m open to collaborating on Opensource Projects as long as they are positive.
 - 👀 I’m interested in Front-end technologies for SPA and SSR.
-- 🌱 I’m currently working with Vue 3.
-- 📫 How to reach me: apesyntax@gmail.com
+- 🌱 I’m currently working with Vue 3 + Vuetify + ES6.
 - 👨‍💻 Portfolio: https://abrahams-portfolio.netlify.app/
 - ✅ I am actively looking for a new job coding.
+- 📫 How to reach me: apesyntax@gmail.com
 
 🖥️ What I Bring to the codebase:
 
 🎨 Creative and user-centric website design skills.
-💡 Proficiency in Vue.js for crafting sleek single-page applications (SPAs).
-🛠 Strong foundation in HTML, CSS, and JavaScript.
-💼 Experience working with diverse teams on exciting projects.
-🌟 A dedication to keeping up with the latest trends and technologies.
+🌎 Internationalization with i18n multilanguage support.
+🛠 Strong foundation in cross-platform responsive design.
+🙌 An open mind for keeping up with the latest trends and technologies.
+💼 12+ Years of experience working with diverse teams on exciting projects.
+💡 Proficiency in Vue.js for crafting super fast and sleek single-page applications (SPAs).
 
 Tech: 
 
