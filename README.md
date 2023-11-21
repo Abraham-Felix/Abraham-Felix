@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @Abraham-Felix a Software Developer with a Background as Director of Design with 12+ years of work experience + 22+ Tech certifications.
+
 - 💞️ I’m open to collaborating on Opensource Projects as long as they are positive.
+- 👨‍🏫 Top skill is CSS3 from Scratch I can basically debug any CSS problem.
 - 👀 I’m interested in Front-end technologies for SPA and SSR.
 - 🌱 I’m currently working with Vue 3 + Vuetify + ES6.
 - 👨‍💻 Portfolio: https://abrahams-portfolio.netlify.app/
